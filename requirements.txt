@@ -1,0 +1,6 @@
+streamlit
+openai
+Pillow
+pymupdf==1.23.8
+pandas
+anthropic
