@@ -123,7 +123,7 @@ Only include items you can clearly see. Be conservative. If there is an equipmen
                 t0 = time.time()
 
                 response = client.messages.create(
-                    model="claude-opus-4-6",
+                    model="claude-sonnet-4-5",
                     max_tokens=2000,
                     messages=[
                         {
